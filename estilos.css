@@ -1,0 +1,35 @@
+#contenedor{
+    width: 450px;
+    background-color: gray;
+    padding: 35px 45px 35px 50px;
+    margin: auto;
+    margin-top: 65px;
+    border-radius: 9px;
+}
+td{
+    color: aliceblue;
+}
+
+.input{
+    color: black;
+    font-family: fantasy;
+    font-size: 18px;
+    line-height: 22px;
+    background-color: white;
+    padding: 13px 13px 13px 54px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+input.error{
+    font-family: fantasy;
+    font-size: 18px;
+    line-height: 22px;
+    background-color: red;
+    padding: 13px 13px 13px 54px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 0px;
+}
